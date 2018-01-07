@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/contact.unity
+- path: Assets/contact - Copy.unity
   isLoaded: 1
   isActive: 1
